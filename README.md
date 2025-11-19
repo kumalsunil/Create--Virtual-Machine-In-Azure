@@ -1,3 +1,7 @@
+<p align="center">
+<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/ac1e95e3-ef34-4156-8546-707435cf0881" />
+</p>
+
 <h2>Prerequisite ⚙️</h2>
 
 - Microsoft Azure Subscription
