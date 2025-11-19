@@ -1,12 +1,13 @@
 <p align="center">
 <img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/ac1e95e3-ef34-4156-8546-707435cf0881" />
 </p>
-
+<h1 style="border-bottom: 2px solid #ccc; padding-bottom: 5px;">Azure Virtual Machine Deployment Guide</h1>
+    <p>A simple, visual walkthrough for launching your cloud infrastructure.</p>
 <h2>Prerequisite ⚙️</h2>
 
 - Microsoft Azure Subscription
 
-<h2>Operating Systems Used </h2>
+<h2>Operating Systems Used 💻 </h2>
 
 - Windows 11
 
