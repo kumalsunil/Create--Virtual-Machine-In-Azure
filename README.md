@@ -10,7 +10,7 @@
 <h2>Operating Systems Used 💻 </h2>
 
 - Windows 11
-
+<p> <h2>Installation Steps: </h2>
 <h3> Step 1 — Go to Azure Portal & Search for Virtual Machines </h3>
 <p> <img width="648" height="819" alt="Screenshot 2025-11-19 144638" src="https://github.com/user-attachments/assets/4b410ec8-a959-4258-bf4b-4da4f801b0a5" />
  </p> <p> Open the Azure Portal and use the search bar at the top to search for Virtual Machines. Click on the “Virtual Machines” service to open it. </p> <br />
@@ -33,4 +33,4 @@
  </p> <p> Create an admin username and password. You will use these credentials to RDP into the VM later. </p> <br />
 <h3>Step 7 — Create</h3>
 <p> <img width="811" height="511" alt="Screenshot 2025-11-19 145009" src="https://github.com/user-attachments/assets/d7cabf1a-58e8-4d5e-a46c-0f58234ac177" />
- </p> <p> Click Create </p> <br />
+ </p> <p> Click Create </p> <br /> </p>
